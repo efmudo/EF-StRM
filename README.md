@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://p.kindpng.com/picc/s/224-2246309_new-banner-design-png-transparent-png.png"><br>
+  <img src="blob:https://www.pngegg.com/1e21fb52-7042-4458-b9af-31d12946515d"><br>
 </p>
