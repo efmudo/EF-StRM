@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://pic.clubic.com/v1/images/1700808/raw?fit=smartCrop&width=800&height=500&hash=b744a3f5afd7f896e604a17692be15a241a80a79"><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Lineage_OS_logo.svg"><br>
 </p>
