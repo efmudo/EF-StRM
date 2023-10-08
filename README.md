@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="[https://github.com/fjrXTR/fjrXTR/raw/main/majo-no-tabitabi-the-journey-of-elaina.gif](https://p.kindpng.com/picc/s/224-2246309_new-banner-design-png-transparent-png.png)https://p.kindpng.com/picc/s/224-2246309_new-banner-design-png-transparent-png.png"><br>
+  <img src="https://p.kindpng.com/picc/s/224-2246309_new-banner-design-png-transparent-png.png"><br>
 </p>
