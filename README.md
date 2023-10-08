@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="blob:https://www.pngegg.com/1e21fb52-7042-4458-b9af-31d12946515d"><br>
+  <img src="https://pic.clubic.com/v1/images/1700808/raw?fit=smartCrop&width=800&height=500&hash=b744a3f5afd7f896e604a17692be15a241a80a79"><br>
 </p>
